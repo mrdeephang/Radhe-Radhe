@@ -1,7 +1,6 @@
 # Manifestation App
 
 This is a Flutter app to write and save daily manifestations and gratitude notes. It also shows past entries and supports dark mode.
-![Image](https://github.com/user-attachments/assets/9e1862c2-b664-4f9d-8073-4a7f5f5de165)
 
 ## Features
 
@@ -35,3 +34,5 @@ This is a Flutter app to write and save daily manifestations and gratitude notes
 ## Developer
 
 Made by Deephang Thegim
+![Image](https://github.com/user-attachments/assets/9e1862c2-b664-4f9d-8073-4a7f5f5de165)
+
